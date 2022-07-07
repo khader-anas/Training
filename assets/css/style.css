@@ -15,7 +15,7 @@ height: 59vh;
 
 #htu-home-slogan{
     letter-spacing: 2px;
-    }
+     }
 
 .htu-home-mainContiner{
     background-image: url(../images/bg.jpg);
@@ -31,6 +31,6 @@ height: 59vh;
     min-height: 76vh;
 }
 
-.htu-login-mainContiner{
+/* .htu-login-mainContiner{
     height: 80vh;
-}
+} */
