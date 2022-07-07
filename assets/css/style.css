@@ -1,0 +1,36 @@
+.htu-landing-mainContiner{
+    background-image:url(../images/bg.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.htu-landing-jum{
+    width: 50%;
+}
+.htu-login-mainContiner{
+height: 59vh;
+}
+
+
+#htu-home-slogan{
+    letter-spacing: 2px;
+    }
+
+.htu-home-mainContiner{
+    background-image: url(../images/bg.jpg);
+        background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+
+
+
+#htu-courses-search{
+
+    min-height: 76vh;
+}
+
+.htu-login-mainContiner{
+    height: 80vh;
+}
